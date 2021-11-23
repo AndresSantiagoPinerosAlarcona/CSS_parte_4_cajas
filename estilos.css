@@ -1,0 +1,14 @@
+*{
+
+	font-size: 1.5em; 					/*Tamaño de la letra*/
+	font-family: 'Anton',gorgia ; 		/*Tipografia ejemplo:     si no encuentra la pirpograifa ('Anton'), que coloque gorgia  */
+	font-weight: 3;					/* Grosor */
+	color:red;							/* Color */
+}
+
+h2 {
+	display: inline;					/* hace que los h2 se comparten como objetos en linea */
+}
+b {
+	display: inline;
+}
